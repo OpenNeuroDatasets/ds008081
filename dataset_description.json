@@ -1,0 +1,17 @@
+{
+    "Name": "A comprehensive EEG and subjective ergonomic evaluation dataset for steady-state visual evoked potentials under realistic backgrounds",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC-BY-4.0",
+    "Authors": [
+        "Tairan Liang",
+        "Jinke Fan"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.18.0",
+            "CodeURL": "https://mne.tools/mne-bids/"
+        }
+    ]
+}
