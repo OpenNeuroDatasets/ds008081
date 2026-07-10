@@ -1,5 +1,5 @@
 {
-    "Name": "A comprehensive EEG and subjective ergonomic evaluation dataset for steady-state visual evoked potentials under realistic backgrounds",
+    "Name": "REAL-ErgoSSVEP: EEG and ergonomic dataset of steady-state visual evoked potentials under realistic backgrounds",
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
     "License": "CC0",
