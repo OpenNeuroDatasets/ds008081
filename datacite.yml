@@ -1,0 +1,54 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Jinke Fan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: DataCollector
+        order: 1
+      - name: Ye Tian
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: ContactPerson
+        order: 2
+      - name: Lingfeng Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: ProjectMember
+        order: 3
+      - name: Tao Hu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 4
+      - name: Jun Li
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 5
+    creators:
+      - name: Jinke Fan
+        nameType: Personal
+      - name: Ye Tian
+        nameType: Personal
+      - name: Lingfeng Zhang
+        nameType: Personal
+      - name: Tao Hu
+        nameType: Personal
+      - name: Jun Li
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
