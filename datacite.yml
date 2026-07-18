@@ -38,6 +38,16 @@ data:
         nameIdentifiers: []
         contributorType: Supervisor
         order: 5
+      - name: Tairan Liang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0009-0003-3957-4298
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 6
     creators:
       - name: Jinke Fan
         nameType: Personal
@@ -49,6 +59,9 @@ data:
         nameType: Personal
       - name: Jun Li
         nameType: Personal
+      - name: Tairan Liang
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
