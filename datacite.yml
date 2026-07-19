@@ -3,41 +3,6 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Jinke Fan
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: DataCollector
-        order: 1
-      - name: Ye Tian
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: ContactPerson
-        order: 2
-      - name: Lingfeng Zhang
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: ProjectMember
-        order: 3
-      - name: Tao Hu
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Supervisor
-        order: 4
-      - name: Jun Li
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Supervisor
-        order: 5
       - name: Tairan Liang
         givenName: ''
         familyName: ''
@@ -47,8 +12,46 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
+        order: 1
+      - name: Jinke Fan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: DataCollector
+        order: 2
+      - name: Ye Tian
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: ContactPerson
+        order: 3
+      - name: Lingfeng Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: ProjectMember
+        order: 4
+      - name: Tao Hu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 5
+      - name: Jun Li
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
         order: 6
     creators:
+      - name: Tairan Liang
+        nameType: Personal
+        nameIdentifiers: *ref_0
       - name: Jinke Fan
         nameType: Personal
       - name: Ye Tian
@@ -59,9 +62,6 @@ data:
         nameType: Personal
       - name: Jun Li
         nameType: Personal
-      - name: Tairan Liang
-        nameType: Personal
-        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
