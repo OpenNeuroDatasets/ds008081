@@ -1,31 +1,31 @@
-participant_id	age	sex	hand	weight	height
-sub-01	24	M	R	80	1.8
-sub-02	20	M	R	62	1.69
-sub-03	24	M	R	52	1.63
-sub-04	20	M	R	57	1.68
-sub-05	28	M	R	63	1.68
-sub-06	21	M	R	68	1.66
-sub-07	19	M	R	70	1.68
-sub-08	20	M	R	99	1.81
-sub-09	20	M	R	83	1.79
-sub-10	20	M	R	55	1.68
-sub-11	21	M	R	60	1.8
-sub-12	20	M	L	72	1.79
-sub-13	20	F	R	71	1.63
-sub-14	26	M	R	57	1.7
-sub-15	20	M	R	70	1.78
-sub-16	20	M	R	105	1.8
-sub-17	22	M	L	83	1.69
-sub-18	20	M	R	72.5	1.78
-sub-19	20	M	R	55	1.75
-sub-20	27	M	R	70.5	1.72
-sub-21	21	M	R	70	1.78
-sub-22	25	M	R	60	1.72
-sub-23	20	M	R	60	1.65
-sub-24	21	M	R	70	1.68
-sub-25	20	M	R	58	1.65
-sub-26	25	M	R	56	1.7
-sub-27	20	F	R	40	1.58
-sub-28	20	M	R	83	1.73
-sub-29	20	M	R	65	1.68
-sub-30	20	M	R	62	1.68
+participant_id	age	sex	hand	weight	height	video_version
+sub-01	24	M	R	80	1.8	v1
+sub-02	20	M	R	62	1.69	v1
+sub-03	24	M	R	52	1.63	v1
+sub-04	20	M	R	57	1.68	v1
+sub-05	28	M	R	63	1.68	v1
+sub-06	21	M	R	68	1.66	v1
+sub-07	19	M	R	70	1.68	v1
+sub-08	20	M	R	99	1.81	v1
+sub-09	20	M	R	83	1.79	v2
+sub-10	20	M	R	55	1.68	v2
+sub-11	21	M	R	60	1.8	v2
+sub-12	20	M	L	72	1.79	v2
+sub-13	20	F	R	71	1.63	v2
+sub-14	26	M	R	57	1.7	v2
+sub-15	20	M	R	70	1.78	v2
+sub-16	20	M	R	105	1.8	v2
+sub-17	22	M	L	83	1.69	v2
+sub-18	20	M	R	72.5	1.78	v2
+sub-19	20	M	R	55	1.75	v3
+sub-20	27	M	R	70.5	1.72	v3
+sub-21	21	M	R	70	1.78	v3
+sub-22	25	M	R	60	1.72	v3
+sub-23	20	M	R	60	1.65	v3
+sub-24	21	M	R	70	1.68	v3
+sub-25	20	M	R	58	1.65	v3
+sub-26	25	M	R	56	1.7	v3
+sub-27	20	F	R	40	1.58	v3
+sub-28	20	M	R	83	1.73	v3
+sub-29	20	M	R	65	1.68	v1
+sub-30	20	M	R	62	1.68	v1
