@@ -1,0 +1,58 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event in seconds from onset. Must be zero, positive, or 'n/a' if unavailable. A zero value indicates an impulse event. ",
+        "Units": "s"
+    },
+    "sample": {
+        "Description": "The event onset time in number of sampling points.First sample is 0."
+    },
+    "value": {
+        "Description": "The event code (also known as trigger code or event ID) associated with the event."
+    },
+    "trial_type": {
+        "Description": "The type, category, or name of the event."
+    },
+    "block_id": {
+        "LongName": "Block ID",
+        "Description": "Experimental block number in presentation order, from 1 to 6."
+    },
+    "trial_id": {
+        "LongName": "Trial ID",
+        "Description": "Sequential stimulus trial number within the subject, from 1 to 60."
+    },
+    "frequency": {
+        "LongName": "Stimulation Frequency",
+        "Description": "Stimulation frequency of the SSVEP flicker.",
+        "Units": "Hz",
+        "Levels": {
+            "10": "10 Hz",
+            "12": "12 Hz",
+            "15": "15 Hz"
+        }
+    },
+    "transparency": {
+        "LongName": "Stimulus Transparency",
+        "Description": "Transparency level of the background/stimulus blending.",
+        "Units": "percent",
+        "Levels": {
+            "0": "0% transparency",
+            "50": "50% transparency"
+        }
+    },
+    "color": {
+        "LongName": "Stimulus Color Pair",
+        "Description": "Color pair used for the flickering stimulus.",
+        "Levels": {
+            "white-black": "White and black flicker",
+            "green-black": "Green and black flicker"
+        }
+    },
+    "bg_image_id": {
+        "LongName": "Background Image ID",
+        "Description": "Identifier of the background image shown during the trial, from bg01 to bg30."
+    }
+}

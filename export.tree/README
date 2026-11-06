@@ -1,0 +1,6 @@
+# REAL-ErgoSSVEP: Dataset
+
+This repository contains the full dataset for the paper:
+"REAL-ErgoSSVEP: EEG and ergonomic dataset of steady-state visual evoked potentials under realistic backgrounds" ( Submitted to Scientific Data).
+
+The source code, data exporting pipelines, and technical validation notebooks is available on Github [@Tairan4356/REAL-ErgoSSVEP](https://github.com/Tairan4356/REAL-ErgoSSVEP)
