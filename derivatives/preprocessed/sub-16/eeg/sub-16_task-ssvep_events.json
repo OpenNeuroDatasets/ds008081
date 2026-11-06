@@ -15,5 +15,15 @@
     },
     "trial_type": {
         "Description": "The type, category, or name of the event."
-    }
-}
+    },
+    "block_id": {
+        "LongName": "Block ID",
+        "Description": "Experimental block number in presentation order, from 1 to 6."
+    },
+    "trial_id": {
+        "LongName": "Trial ID",
+        "Description": "Sequential stimulus trial number within the subject, from 1 to 60."
+    },
+    "frequency": {
+        "LongName": "Stimulation Frequency",
+        "Description": "Stimulation frequency of the SSVEP
