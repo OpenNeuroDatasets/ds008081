@@ -1,0 +1,65 @@
+{
+    "participant_id": {
+        "Description": "Unique identifier of the participant, matching participants.tsv"
+    },
+    "dry_eyes": {
+        "Description": "Subjective feeling of dryness in the eyes",
+        "Levels": {
+            "1": "None",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Very severe"
+        }
+    },
+    "eye_pain": {
+        "Description": "Subjective feeling of pain or soreness in the eyes",
+        "Levels": {
+            "1": "None",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Very severe"
+        }
+    },
+    "blurred_vision": {
+        "Description": "Subjective report of blurred or unfocused vision",
+        "Levels": {
+            "1": "None",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Very severe"
+        }
+    },
+    "photophobia": {
+        "Description": "Subjective sensitivity or aversion to light during the task",
+        "Levels": {
+            "1": "None",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Very severe"
+        }
+    },
+    "headache": {
+        "Description": "Subjective feeling of headache or tension around the head",
+        "Levels": {
+            "1": "None",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Very severe"
+        }
+    },
+    "visual_afterimages": {
+        "Description": "Perception of residual visual afterimages after the flickering blocks stop",
+        "Levels": {
+            "1": "None",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Very severe"
+        }
+    }
+}
